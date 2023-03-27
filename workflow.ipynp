@@ -1,1 +1,15 @@
 
+Exploratory Data Analysis (EDA) is an essential step in the data analysis process, allowing you to understand your data, identify patterns, and make informed decisions. Here is a general outline of the steps to perform EDA in Python using Pandas, Matplotlib, and Seaborn:
+
+1. Import libraries and load data
+2. Inspect data structure and summary statistics
+3. Handle missing and duplicate data
+4. Perform data type conversions if necessary
+5. Analyze distributions of numerical variables
+6. Analyze relationships between numerical variables
+7. Analyze categorical variables
+8. Analyze relationships between categorical and numerical variables
+9. Perform feature engineering if necessary
+10. Save the cleaned and processed data for further analysis or modeling
+
+Once you have a general understanding of these steps, you can dive deeper into each step with examples and explanations.
